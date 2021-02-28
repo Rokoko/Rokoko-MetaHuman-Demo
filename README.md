@@ -15,5 +15,8 @@ This Demo project let's you star up a scene with a character already set up for 
 
 ---
 
+Download Demo Project: 
+https://www.notion.so/rokoko/Stream-data-from-Rokoko-Studio-to-MetaHuman-Creator-b540230bb97f446d888333c9675316e4#4d7f43d5adf44a1b92410083a18e8f85
+
 For a guide on how to use the Demo Project go to the wiki page **Rokoko Studio MetaHuman Project**:
 https://github.com/Rokoko/Rokoko-MetaHuman-Demo/wiki/Rokoko-Studio---Unreal-Demo-Project-Documentation
